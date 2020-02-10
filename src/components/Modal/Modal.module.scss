@@ -1,0 +1,25 @@
+.wrapper{
+  position: fixed;
+  top: 8%;
+  right: 18%;
+  width: 20vh;
+  height: 20vh;
+  background-color: white;
+  box-shadow: 0 10px 40px -15px rgba(rgb(19, 18, 18), .5);
+}
+ul{
+  list-style: none;
+ 
+}
+ul li{
+  display: block;
+  margin: 20px 0;
+  cursor: pointer;
+  height: 34px;
+  line-height: 34px;
+  padding-left: 10px;
+}
+ul li:hover{
+  background-color: gray;
+  
+}
